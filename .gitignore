@@ -1,0 +1,12 @@
+# Ignore private environment variables
+.env
+
+# Ignore local data files
+data/*.json
+data/*.md
+
+# Ignore local logs
+logs/*.log
+
+# Ignore macOS system files
+.DS_Store
