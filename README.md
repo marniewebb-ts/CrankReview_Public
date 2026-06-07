@@ -1,6 +1,8 @@
-# CrankReview
+# CrankReview (v1.2)
 
 CrankReview is a macOS-native automation pipeline designed to support a deep-thinking research workflow. It automatically fetches a week’s worth of digital output from a personal JSON feed, filters it for recency, and uses the Gemini 1.5 Pro model to synthesize the data into a structured research note within an Obsidian vault.
+
+See the [Changelog](CHANGELOG.md) for version history.
 
 ## Motivation
 I built CrankReview because I wanted an AI that didn't just "chat" but "observed" my thinking over time. While I share thoughts and links frequently via my microblog, those fragments often disappear into the feed. 
